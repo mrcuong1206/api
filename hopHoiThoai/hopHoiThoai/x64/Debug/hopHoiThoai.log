@@ -1,0 +1,19 @@
+﻿  hopHoiThoai.cpp
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(186,89): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(189,85): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(192,85): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(196,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(203,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(210,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(239,81): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(243,81): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(247,81): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(251,81): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(256,81): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(263,85): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(268,85): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(273,85): warning C4805: '==': unsafe mix of type 'LRESULT' and type 'bool' in operation
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(240,23): warning C4101: 's': unreferenced local variable
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(244,23): warning C4101: 's': unreferenced local variable
+C:\API\Test\hopHoiThoai\hopHoiThoai\hopHoiThoai.cpp(248,23): warning C4101: 's': unreferenced local variable
+  hopHoiThoai.vcxproj -> C:\API\Test\hopHoiThoai\x64\Debug\hopHoiThoai.exe
